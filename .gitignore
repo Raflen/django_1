@@ -1,3 +1,4 @@
 *.pyc
 .vscode/*
 .admin
+Django_By_Example_Code/*
